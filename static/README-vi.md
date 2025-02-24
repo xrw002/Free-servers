@@ -35,23 +35,22 @@
  <h4>Danh sách nút: (Chỉ hiển thị một số nút ở đây, vui lòng tải xuống ứng dụng để xem tất cả các nút)</h4>
     
 ```
-trojan://naEX%5Dg*qw%40MT%26lFz@104.21.96.1:2087?security=tls&sni=jOinMAhdIsErvEr-53k.pAGeS.Dev&type=ws&host=joinmahdiserver-53k.pages.dev&path=%2Ftrb6oyXIzrlytDBNlm%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#United+States
-trojan://telegram-id-privatevpns@13.61.202.241:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#Sweden
-ss://YWVzLTI1Ni1nY206Q1pXR0tWVktFVDJCVFJCSw==@154.196.244.12:16002#Singapore
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@67.220.95.102:6697#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMSTRvYk9FSURMekRqZDd4WWxoaFRK@86.104.75.103:49264#Canada
-trojan://s42%26umY%28K5n*csP4@104.21.64.1:8443?security=tls&sni=JOInMAHDiseRVer-EEu.pAGEs.dEv&type=ws&host=joinmahdiserver-eeu.pages.dev&path=%2FtrOagy9SuM2cDpqUqO%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#United+States
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@169.197.142.187:2376#United+States
-trojan://naEX%5Dg*qw%40MT%26lFz@104.21.48.1:2087?security=tls&sni=jOinMAhdIsErvEr-53k.pAGeS.Dev&type=ws&host=joinmahdiserver-53k.pages.dev&path=%2Ftrb6oyXIzrlytDBNlm%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#United+States
-vmess://eyJhZGQiOiAiMzguMTQuMTA3LjIzMyIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogMzgwMDMsICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCAiYWlkIjogIjY0IiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogInd3dy4yMzE3OTc1My54eXoiLCAicGF0aCI6ICIvcGF0aC8zNDA0MzQxMzAwMzIiLCAidGxzIjogInRscyJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.110:8080#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@203.23.128.33:990#Hong+Kong
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@145.239.6.202:8090#United+Kingdom
+trojan://1e63e585ab2fef3adcc9ea75a62abc23@104.251.227.182:443?allowInsecure=1&sni=hezijiasuqi.com#Hong+Kong
+vmess://eyJ2IjogIjIiLCAicHMiOiAiTWV4aWNvIiwgImFkZCI6ICI3OS4xMjcuMjI5LjU0IiwgInBvcnQiOiAiMTgwMDAiLCAiaWQiOiAiZmExODk3ZGItMTkyNS00Yzg2LWE0OTUtOTM5YTk1OWFmOTAwIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiIsICJzbmkiOiAiIiwgInRlc3RfbmFtZSI6ICIxMTAifQ==
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@54.36.174.181:7002#France
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.78:443#United+Kingdom
+vmess://eyJhZGQiOiAiMTg1LjEzNS45LjE5IiwgInYiOiAiMiIsICJwcyI6ICJHZXJtYW55IiwgInBvcnQiOiAyMDUyLCAiaWQiOiAiM2Y2MzhmMzQtOGRiYS00MTg2LWJjNDMtMjcxNmE3ZGRkNGJlIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogInllbGxvdy1wYXBlci0wMjljLnl2b25uYS53b3JrZXJzLmRldiIsICJwYXRoIjogIi9hejA1LmJleW9uZHkuY2ZkL2xpbms/L1RNQEFaQVJCQVlKQUIxQEFaQVJCQVlKQUIxQEFaQVJCQVlKQUIxQEFaQVJCQVlKQUIxQEFaQVJCQVlKQUIxQEFaQVJCQVlKQUIxQEFaQVJCQVlKQUIxQEFaQVJCQVlKQUIxLz9lZD0yNTYwIiwgInRscyI6ICIifQ==
+trojan://qCfu8t%24s%7B2m%3BsTxm@172.66.44.194:2053?security=tls&sni=JOinMaHdISeRvEr-C1C.PaGES.dEV&type=ws&host=joinmahdiserver-c1c.pages.dev&path=%2Ftrj9FI2oIGn7dZc4g3%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#United+States
+vmess://eyJhZGQiOiAidGxzLjkwLm5vZGUtZm9yLWJpZ2FpcnBvcnQud2luIiwgInYiOiAiMiIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInBvcnQiOiA0NDMsICJpZCI6ICJlZjVmY2ExMC00MWJjLTQ2MjMtODdhMy0xMTcwYTdiNTE4MjciLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAidGxzLjkwLm5vZGUtZm9yLWJpZ2FpcnBvcnQud2luIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAidGxzIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1NGQ3M2U0Yi0wNTRkLTQxNDgtYmFiNi0yMjY0NmY0NDMxYTk=@94.177.131.71:60033#Japan
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.157:8080#Lithuania
-vmess://eyJhZGQiOiAiMjMuMTU4LjU2LjIyNyIsICJ2IjogIjIiLCAicHMiOiAiR2VybWFueSIsICJwb3J0IjogNDQzLCAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIjIzLjE1OC41Ni4yMjciLCAicGF0aCI6ICIvbGlua3Z3cyIsICJ0bHMiOiAidGxzIn0=
-trojan://Aimer@46.254.93.243:8443?security=tls&sni=agept.ambercc.filegear-sg.me&type=ws&host=agept.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560&alpn=http%2F1.1#Russia
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwN0VoQzhNUjdvN0d1Um4yN1lGOFNRTkFLSjJsVWJCTklqY3lxU21CSHN5OHdMYko=@159.65.149.72:51348#India
-trojan://Aimer@47.79.86.103:587?security=tls&sni=agept.ambercc.filegear-sg.me&type=ws&host=agept.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560&alpn=http%2F1.1#United+States
+vmess://eyJhZGQiOiAiZ292LnVrIiwgInYiOiAiMiIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInBvcnQiOiA0NDMsICJpZCI6ICI3Nzg0ODgyNC05M2I3LTRiODktZmZkMC1lOTFhZmZmNDA2Y2UiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiemhlc2hpc2NwLmNvbSIsICJwYXRoIjogIi83Nzg0ODgyNCIsICJ0bHMiOiAidGxzIn0=
+trojan://ba4e0314-c815-4711-81ac-4d37f0fb59fc@172.67.204.84:443?security=tls&sni=se1.safecdn.site&type=ws&host=se1.safecdn.site&path=%2Fed%3A2044Telegram%3A%40AB_841-%5B%40BugFreeNet%5D--%5B%40BugFreeNet%5D--%5B%40BugFreeNet%5D--%5B%40BugFreeNet%5D--%5B%40BugFreeNet%5D--%5B%40BugFreeNet%5D--%5B%40BugFreeNet%5D--%5B%40BugFreeNet%5D--%5B%40BugFreeNet%5D-#United+States
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@69.50.95.245:7002#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpraFJhVnBxcnhDaUpsdnlTbjlKM2VF@77.83.246.74:443#Poland
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@149.202.82.172:445#France
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.158.171.136:8080#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOWZlZmNjMy05YWUxLTRlMDEtYTFkMC01MzRmYzE2NzExMjE=@61.111.247.242:40032#South+Korea
 ```
 <h5>Địa chỉ đăng ký vĩnh viễn của nút trên (một phần): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_vi</h5>
  <p>Mã QR cho địa chỉ đăng ký ở trên</p>

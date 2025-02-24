@@ -35,23 +35,22 @@
  <h4>Lista de nodos: (aquí solo se muestran algunos nodos; descargue la aplicación para ver todos los nodos)</h4>
     
 ```
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@69.50.95.245:7002#Estados+Unidos
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@169.197.142.187:5001#Estados+Unidos
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.150.152.112:8009#Estados+Unidos
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@142.202.49.122:9101#Estados+Unidos
-trojan://bpb-trojan@104.26.4.60:443?security=tls&sni=zamim340.ggff.net&type=ws&host=zamim340.ggff.net&path=%2Ftr%3Fed%3D2560#Estados+Unidos
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.157:8080#Lituania
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@169.197.142.187:8119#Estados+Unidos
-trojan://3747000103274291200@77.73.70.64:443?security=tls&sni=better-crappie.treefrog761.one&type=tcp&fp=chrome#Rusia
-trojan://telegram-id-directvpn@13.53.32.38:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#Suecia
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@162.251.63.124:8881#Estados+Unidos
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.77.53.200:3306#Polonia
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.197:443#Reino+Unido
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.121.43.97:7307#Estados+Unidos
-vmess://eyJhZGQiOiAiOTIuNTMuMTg4LjE4NSIsICJ2IjogIjIiLCAicHMiOiAiRXN0YWRvcyBVbmlkb3MiLCAicG9ydCI6IDg0NDMsICJpZCI6ICIxOTFiYWJjNS0yYWFmLTRmZTUtYTU2My1mMTQyNDRhZWZiNGUiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAibGF4MS5pYmdmdy50b3AiLCAicGF0aCI6ICIveHJlbnZ3cyIsICJ0bHMiOiAidGxzIn0=
-vmess://eyJhZGQiOiAiMi41OC44Ny4yMjEiLCAidiI6ICIyIiwgInBzIjogIkVzdGFkb3MgVW5pZG9zIiwgInBvcnQiOiA0NjYyOCwgImlkIjogImY2YmE5ZTVhLTcxMWMtNDk2Zi1iZTYwLWFjNTQ2NGRlYzJiOCIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@217.182.198.219:9101#Alemania
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@51.77.53.200:8080#Polonia
+vmess://eyJhZGQiOiAiNDUuMTQyLjEyMC4xOTAiLCAidiI6ICIyIiwgInBzIjogIlJ1c2lhIiwgInBvcnQiOiAyMDgyLCAiaWQiOiAiM2Y2MzhmMzQtOGRiYS00MTg2LWJjNDMtMjcxNmE3ZGRkNGJlIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogInllbGxvdy1wYXBlci0wMjljLnl2b25uYS53b3JrZXJzLmRldiIsICJwYXRoIjogIi9hejA1LmJleW9uZHkuY2ZkL2xpbmsjQEFaQVJCQVlKQUIxQEFaQVJCQVlKQUIxQEFaQVJCQVlKQUIxP2VkPTI1NzAiLCAidGxzIjogIiJ9
+trojan://3774827088566296576@destined-cub.treefrog761.one:443#Italia
+vmess://eyJhZGQiOiAiMzguMTc0LjE5MC43MiIsICJhaWQiOiA2NCwgImhvc3QiOiAiIiwgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvcGF0aC8xMDAzMTgyMzA1MDMiLCAicG9ydCI6IDM4MDA3LCAicHMiOiAiRXN0YWRvcyBVbmlkb3MiLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
+trojan://3787016351714123776@busy-buffalo.treefrog761.one:443?sni=busy-buffalo.treefrog761.one#Suecia
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@ns3849026.ip-217-182-198.eu:9101#Alemania
+trojan://15c33952@sj.5216818.xyz:443#Estados+Unidos
+trojan://auto@172.67.203.182:443?security=tls&sni=esetsecuritylicense.bwnsmv.workers.dev&type=ws&host=esetsecuritylicense.bwnsmv.workers.dev&path=%2F%3Fed%3D2560#Estados+Unidos
+vmess://eyJhZGQiOiAiMTYzLjUuMTU5LjIzMSIsICJ2IjogIjIiLCAicHMiOiAiRnJhbmNpYSIsICJwb3J0IjogNDQzLCAiaWQiOiAiZTUzN2YyZjUtMmEwYy00ZjU5LTkyYzktODMyY2E2NDMzYmYzIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImlydmlkZW8uY2ZkIiwgInBhdGgiOiAiL2xpbmt3cyIsICJ0bHMiOiAidGxzIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@147.78.3.93:990#Ucrania
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.158.171.146:8080#Estados+Unidos
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@54.36.174.181:8888#Francia
+trojan://tg-fq521free@45.67.215.95:443?security=tls&sni=torjan.xn--xhq44j.eu.org&type=ws&host=torjan.xn--xhq44j.eu.org&path=/#Rusia
+trojan://3787016351714123776@magnetic-chicken.treefrog761.one:443?sni=magnetic-chicken.treefrog761.one#Francia
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.133:8080#Holanda
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQUFhiOEoyY2lEeWJva1dsN2t4S2Fi@45.144.54.156:51587#Eslovenia
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZWRUdU45V1N1ZlRrWWh2ZkpEMGpz@77.239.122.39:2239#Reino+Unido
 ```
 <h5>La dirección de suscripción permanente del nodo superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_es</h5>
  <p>Código QR para la dirección de suscripción anterior</p>
