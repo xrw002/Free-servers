@@ -35,23 +35,25 @@
 <h4>Node list: (Only some nodes are shown here, please download the app to view all nodes)</h4>
     
 ```
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@54.36.174.181:3389#France
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.121.43.71:8009#United+States
-vmess://eyJhZGQiOiAiMjcuNTAuNDguMTg4IiwgInYiOiAiMiIsICJwcyI6ICJTaW5nYXBvcmUiLCAicG9ydCI6IDg0NDMsICJpZCI6ICJlODhiODVjNi05M2I0LTQ3ZjYtYjNmYi0yYzU1ZGNiMTI4OWYiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAibGF4Mi5pYmdmdy50b3AiLCAicGF0aCI6ICIvZHlhanZ3cyIsICJ0bHMiOiAidGxzIn0=
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@139.59.119.143:443?sni=connectwithemployers.online#Singapore
-vmess://eyJhZGQiOiAiMi41OC44Ny4yMjEiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDQ2NjI4LCAiaWQiOiAiZjZiYTllNWEtNzExYy00OTZmLWJlNjAtYWM1NDY0ZGVjMmI4IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@45.154.206.192:990#United+Kingdom
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.77.53.200:3389#Poland
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@149.202.82.172:8881#France
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.196:443#United+Kingdom
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.121.43.71:6697#United+States
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.154.136.132:6679#United+States
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.77.53.200:5000#Poland
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@51.77.53.200:7307#Poland
-ss://YWVzLTI1Ni1nY206MTMzNmMzZjEtNTNkZS00OGEwLThlOTQtOTA3MjBkYTE5ZWU4@194.246.114.54:8443#Hong+Kong
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@ns3849026.ip-217-182-198.eu:445#Germany
-vmess://eyJhZGQiOiAiMTA3LjE3NC4zNC42IiwgInYiOiAiMiIsICJwcyI6ICJDYW5hZGEiLCAicG9ydCI6IDgwLCAiaWQiOiAiNGIzNjYyNWMtYjlkOS0zZWE2LWFlZDUtODZkNjJjNzBlMTZkIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi9kYWJhaS5pbjE3Mi42NC4xOS4xNzIiLCAidGxzIjogIiJ9
-vmess://eyJhZGQiOiAiMTcyLjY3LjE1NC44NCIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogNDQzLCAiaWQiOiAiZTUzN2YyZjUtMmEwYy00ZjU5LTkyYzktODMyY2E2NDMzYmYzIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImlydmlkZW8uY2ZkIiwgInBhdGgiOiAiL2xpbmt3cyIsICJ0bHMiOiAidGxzIn0=
+vmess://eyJhZGQiOiAiczEuZGItbGluazAxLnRvcCIsICJhaWQiOiAwLCAiaG9zdCI6ICIxMDAtMTUxLTE2NC00Ny5zMS5kYi1saW5rMDEudG9wIiwgImlkIjogIjRiMzY2MjVjLWI5ZDktM2VhNi1hZWQ1LTg2ZDYyYzcwZTE2ZCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvZGFiYWkuaW4xNzIuNjcuMi4xNDIiLCAicG9ydCI6IDIwNTIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInRscyI6ICIiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLCAic25pIjogIjEwMC0xNTEtMTY0LTQ3LnMxLmRiLWxpbmswMS50b3AifQ==
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.68.135.18:5601#United+States
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@217.182.198.219:2376#Germany
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@217.182.198.219:9102#Germany
+vmess://eyJhZGQiOiAiczQuZGItbGluazAyLnRvcCIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogODA4MCwgImlkIjogIjRiMzY2MjVjLWI5ZDktM2VhNi1hZWQ1LTg2ZDYyYzcwZTE2ZCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIxMDAtMjE3LTE4NC0xNzIuczQuZGItbGluazAyLnRvcCIsICJwYXRoIjogIi9kYWJhaS5pbjEwNC4yNS4yMzguMjI2IiwgInRscyI6ICIifQ==
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@54.36.174.181:8080#France
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.121.43.27:2375#United+States
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@54.36.174.181:5601#France
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.133:8080#The+Netherlands
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.180:443#United+Kingdom
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.161:443#Switzerland
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.217:8080#The+Netherlands
+trojan://auto@172.67.203.182:443?security=tls&sni=esetsecuritylicense.bwnsmv.workers.dev&type=ws&host=esetsecuritylicense.bwnsmv.workers.dev&path=%2F%3Fed%3D2560#United+States
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.77.53.200:5601#Poland
+vmess://eyJhZGQiOiAiOTIuNTMuMTkxLjU2IiwgInYiOiAiMiIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInBvcnQiOiA4NDQzLCAiaWQiOiAiZTg4Yjg1YzYtOTNiNC00N2Y2LWIzZmItMmM1NWRjYjEyODlmIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImxheDIuaWJnZncudG9wIiwgInBhdGgiOiAiL2R5YWp2d3MiLCAidGxzIjogInRscyJ9
+trojan://Aimer@162.159.38.100:2053?security=tls&sni=agepa.ambercc.filegear-sg.me&type=ws&host=agepa.ambercc.filegear-sg.me#United+States
+trojan://6d898085-bf6a-449b-9763-0073d4dc2ce0@104.21.48.1:443?security=tls&sni=BoSTon03.890614.XYz&type=ws&host=boston03.890614.xyz&path=%2FQ3cz2AWTPMCtDGV1L6R1Jz18eIUw&alpn=http%2F1.1#United+States
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.68.135.18:8119#United+States
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@connectwithemployers.online:443#Singapore
 ```
 <h5>Permanent subscription address of the node above (part): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_en</h5>
 <p>QR code of the subscription address above</p>
