@@ -35,23 +35,23 @@
  <h4>নোড তালিকা: (শুধুমাত্র কিছু নোড এখানে প্রদর্শিত হয়, সমস্ত নোড দেখতে অ্যাপটি ডাউনলোড করুন)</h4>
     
 ```
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@149.202.82.172:8119#France
-vmess://eyJhZGQiOiAidUs4MDIuODkwNjg5LlhZeiIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogNDQzLCAiaWQiOiAiNjA0MGE3NTMtZTM1Yi00Mzg0LTg3MTMtOTZmM2M2MzliNjIxIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi8wYjZTQWFOYnMySE9tYWVXaW12VDMiLCAidGxzIjogInRscyJ9
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@38.83.114.105:5498#United+States
-vmess://eyJhZGQiOiAiMTA0LjIxLjUxLjIwOCIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogNDQzLCAiaWQiOiAiZWRiYjEwNTktMTYzMy00MjcxLWI2NmUtZWQ0ZmJhNDdhMWJmIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImxpbmRlMDYuaW5kaWF2aWRlby5zYnMiLCAicGF0aCI6ICIvbGlua3dzIiwgInRscyI6ICJ0bHMifQ==
-trojan://vs6f8hvt@104.17.247.203:2083?security=tls&sni=trojan.cchappy.eu.org&type=ws&host=trojan.cchappy.eu.org&path=%2F%3Fed%3D2560&fp=randomized#United+States
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.150.152.43:7002#United+States
-vmess://eyJhZGQiOiAiczIuY24tZGIudG9wIiwgInYiOiAiMiIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInBvcnQiOiAyMDk1LCAiaWQiOiAiNGIzNjYyNWMtYjlkOS0zZWE2LWFlZDUtODZkNjJjNzBlMTZkIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIjEwMC01MS0yNDMtMTI4LnMyLmNuLWRiLnRvcCIsICJwYXRoIjogIi9kYWJhaS5pbjE3Mi42NC4xMy4xNzIiLCAidGxzIjogIiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTVNOaDIxVHJYalIyb2syNVEybkU4RU5UMnpvQm1QdmthM1JDQ1VBSFpFTENuV29la1ZqdmFmODlxd2NSa2RieEVmZXAyYmMyYVV0bW54cXZGMWF5UVJlejFKSGpVTGo=@exchange.gameaurela.click:52952#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.206:8080#The+Netherlands
-trojan://a124e41a-0fb8-4543-a0ab-a127c7b515a9@sg005.421421.xyz:20230#Singapore
-trojan://vs6f8hvt@104.26.13.54:443?security=tls&sni=trojan.cchappy.eu.org&type=ws&host=trojan.cchappy.eu.org&path=%2F%3Fed%3D2560&fp=randomized#United+States
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.71:5600#United+States
-vmess://eyJhZGQiOiAiMTg1LjE0Ni4xNzMuMTU4IiwgImFpZCI6IDAsICJob3N0IjogImphaGZramhhLmNmZCIsICJpZCI6ICI5NTBkYjZhYS00OTI2LTQ2MTYtODE2ZS1lYzAzMTJkY2I4N2IiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2xpbmt3cyIsICJwb3J0IjogNDQzLCAicHMiOiAiU3dlZGVuIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLCAic25pIjogImphaGZramhhLmNmZCJ9
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.77.53.200:3389#Poland
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.166.88.20:8119#United+States
-vmess://eyJhZGQiOiAiMi4xODkuNTkuNyIsICJ2IjogIjIiLCAicHMiOiAiSXJhbiIsICJwb3J0IjogNDQzLCAiaWQiOiAiMDU2NDFjZjUtNThkMi00YmE0LWE5ZjEtYjNjZGEwYjFmYjFkIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIm9iZGlpLmNmZCIsICJwYXRoIjogIi9saW5rd3MiLCAidGxzIjogInRscyJ9
-vmess://eyJhZGQiOiAiOTUuMTY0LjQ0Ljc4IiwgInYiOiAiMiIsICJwcyI6ICJJcmVsYW5kIiwgInBvcnQiOiAyMDUyLCAiaWQiOiAiMzg1MzUwMzEtY2NjMy00YTk0LWJkNTQtYzY4ODA2NDg2NDA2IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi92bWVzcyIsICJ0bHMiOiAiIn0=
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@149.202.82.172:5000#France
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@54.36.174.181:8091#France
+trojan://vs6f8hvt@104.17.248.203:2083?security=tls&sni=trojan.cchappy.eu.org&type=ws&host=trojan.cchappy.eu.org&path=%2F%3Fed%3D2560&fp=randomized#United+States
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.81:443#United+Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@38.54.2.182:990#Bahrain
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGamdHTk5IUWlFTHp4WG1hSFJ4eHRRYnhERHZHWEZ4WWRUYlllOTFKS1pzanZLTEhvWTlybjlydVlFNDUzNzdXanRVM200a21YUVpEWGlIQkpzZ1ZmaG1wYXdFb0d2cTk=@mx2.drawnrisha.one:55988#United+Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2SVZPdXpNZkg1Uk9wZ3d0UlRjTkpLWUp2WWU5RkRWYVU3d0FZWWg4UFJMeHhaczY=@188.191.147.127:31348#Israel
+vmess://eyJhZGQiOiAiMTkzLjEwOC4xMTcuMTQzIiwgInYiOiAiMiIsICJwcyI6ICJHZXJtYW55IiwgInBvcnQiOiAyNDE2NCwgImlkIjogImFhM2M1YzE4LTY1NzgtNGRlMy1iODkwLTJmZDI1YzNhOGYzNSIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmRERtSDRRZWZtV3FNSjhVVVJackdo@86.104.74.243:14255#Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYd29IZnB2dWN6ekhPa09lYkdYaVVP@87.98.242.137:49551#Germany
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.121.43.71:8080#United+States
+vmess://eyJhZGQiOiAiMjMuMTYyLjE1Mi4xMTEiLCAidiI6ICIyIiwgInBzIjogIkZyYW5jZSIsICJwb3J0IjogMjU5NTEsICJpZCI6ICJlN2FjNzE4YS0xNzUxLTQ4OWMtODIwNS0yNDIyOTI1OWI0MTAiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
+trojan://5a81db08-7af3-49a4-b089-b7a5b2c24c38@jp007.421421.xyz:20230#Japan
+vmess://eyJhZGQiOiAiMTA0LjIxLjIxLjE5MCIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogODAsICJpZCI6ICI0ZDA0YjMwYy1lZjdiLTRhMDctOGY5ZS1mNTgxZWMxNzFmOGEiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiVVM3LTAzLjg5MDYwNi54eXoiLCAicGF0aCI6ICIvYnVhMmhNY2JBOHdNemJHRnRWIiwgInRscyI6ICIifQ==
+ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@2.58.87.221:16899#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3MkhkWm5HYjVpYmg=@89.221.225.88:443#Israel
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@69.50.93.80:3306#United+States
 ```
 <h5>উপরের নোডের স্থায়ী সদস্যতা ঠিকানা (অংশ): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_bn</h5>
  <p>উপরের সদস্যতা ঠিকানার জন্য QR কোড</p>
