@@ -35,25 +35,26 @@
  <h4>Lista de nós: (Apenas alguns nós são exibidos aqui, baixe o aplicativo para visualizar todos os nós)</h4>
     
 ```
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@69.50.93.47:6379#EUA
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@67.220.95.230:5601#EUA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#Canad%C3%A1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2SVZPdXpNZkg1Uk9wZ3d0UlRjTkpLWUp2WWU5RkRWYVU3d0FZWWg4UFJMeHhaczY=@188.191.147.127:31348#Israel
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.173:8080#Holanda
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@160.123.255.243:443?allowInsecure=1&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=/proxyip=160.123.255.243:443&proxyIP=null#%C3%81frica+do+Sul
-vmess://eyJ2IjogIjIiLCAicHMiOiAiUlx1MDBmYXNzaWEiLCAiYWRkIjogIjQ1LjE0Ny4yMDEuMjMxIiwgInBvcnQiOiAyMDAzMCwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiOTI5MGQ3OWQtYTFjOC00Y2I4LTgwYzQtZmJhNTQyNzQ3MWRiIiwgInBhdGgiOiAiLyJ9
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.154.136.51:8888#EUA
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@67.220.95.102:5003#EUA
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@210.61.97.241:81?sni=icecream.955850.xyz&allowInsecure=1&type=ws&path=%2Fproxyip%3D210.61.97.241%3A81%26proxyIP%3Dnull&host=icecream.955850.xyz#Taiwan
-vmess://eyJ2IjogIjIiLCAicHMiOiAiQXVzdHJcdTAwZTFsaWEiLCAiYWRkIjogIjE1NC4yNi4xNTMuMTYxIiwgInBvcnQiOiAiMjE3NTkiLCAiaWQiOiAiZTVmMTZmYWQtZjljMy00NTJiLThlNzEtYmM5NTA0ZTI5ZmM5IiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICJub25lIiwgInNuaSI6ICIiLCAidGVzdF9uYW1lIjogIjk4In0=
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@217.163.76.237:443?allowInsecure=1&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=/proxyip=217.163.76.237:443&proxyIP=null#Reino+Unido
+trojan://0bf83a1d-f785-487a-a479-3c3de2566ba6@104.21.77.44:443?security=tls&sni=x4444.890603.xyz&type=ws&host=x4444.890603.xyz&path=%2FxJXdWGMbbZovkcaL2SsGTGxE&fp=chrome&alpn=http%2F1.1#EUA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@45.144.48.63:57456#Pol%C3%B4nia
+trojan://vip@104.18.27.94:443?security=tls&sni=heihu880.pages.dev&type=ws&host=heihu880.pages.dev&path=%2F%3Fed%3D2560#EUA
+vmess://eyJ2IjogIjIiLCAicHMiOiAiRVVBIiwgImFkZCI6ICIxMDQuMjEuMTEyLjEiLCAicG9ydCI6IDIwODcsICJpZCI6ICIxYzM2OTA2ZS0xYTIxLTQzMzAtYjA0Zi04NWJhZjFhNmZmMjYiLCAidHlwZSI6ICIiLCAiYWlkIjogMCwgIm5ldCI6ICJ3cyIsICJ0bHMiOiAidGxzIiwgInNuaSI6ICJyYWsxZDMuNzc3MjY5Lnh5eiIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICJyYWsxZDMuNzc3MjY5Lnh5eiJ9
+trojan://auto@188.114.99.81:443?security=tls&sni=mazq100za43.962dael.workers.dev&type=ws&host=mazq100za43.962dael.workers.dev&path=%2F#Holanda
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#EUA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNlpDSGVhYlVTZktqZlFFdko0SERW@185.242.86.156:54170#Holanda
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@162.159.153.216:443?sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&allowInsecure=1#EUA
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.71:5601#EUA
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.71:5001#EUA
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.114.114.108:8881#EUA
+trojan://vip@172.67.179.98:443?security=tls&sni=heihu880.pages.dev&type=ws&host=heihu880.pages.dev&path=%2F%3Fed%3D2560#EUA
+trojan://klZqKyxq0H@57.128.165.173:1935?sni=x1-england-ovh-v2.devefun.net#Fran%C3%A7a
 ```
 <h5>O endereço de assinatura permanente do nó superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_pt-BR</h5>
  <p>Código QR do endereço de assinatura acima</p>
  <img src='https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_pt-BR.png' width=250 height=250>
  <blockquote style='text-align: center;'>Para obter mais nós, endereços de assinatura gratuitos e conversões de assinatura, baixe o software de aplicativo de nó compartilhado fornecido por este site <a href='https://shadowsharing.com'>ShadowShare </a> Exportar uso de nós, suportar downloads de iOS e Android, recomenda-se que usuários de Android usem diretamente o <a href='https://github.com/Pawdroid/shadowrocket_for_android'>shadowrocket para android</a> Android Rocket, com todos os nós livres integrados. </blockquote>
  <h4>Recomenda-se que usuários domésticos de iOS <a href='https://apps.apple.com/cn/app/shadowshare/id1612647259'>baixem a App Store</a> e salvem-na o mais rápido possível. poderá ser baixado em algum momento no futuro.</h4>
- <h4>A versão mais recente da VPN de alta velocidade e qualidade <a href='https://letsgovpn.com'>LetsVPN</a> oferece suporte às plataformas Android e Windows. Você pode baixá-la e usá-la. . Uma avaliação gratuita ilimitada é fornecida por tempo limitado. </h4>
+ <h4>A versão mais recente da VPN de alta velocidade e qualidade <a href='https://pawdollvpn.com'>PawdollVPN</a> oferece suporte às plataformas Android e iOS. Você pode baixá-la e usá-la. . Uma avaliação gratuita ilimitada é fornecida por tempo limitado. </h4>
  <div class="nv-content-wrap entry-content">
  <h2>Conversão com um clique de endereços de assinatura de clientes, como Clash e SS:</h2>
  <p>Se o cliente SS/SSR/V2ray não puder usar diretamente o link do nó SSR, use a ferramenta vinculada abaixo para convertê-lo em um endereço de assinatura. Em seguida, SSR/SSD/Surge/Quantum/Surfboard/Loon e outros clientes móveis e de computador. pode ser usado aqui:</p>

@@ -35,25 +35,26 @@
  <h4>Список узлов: (здесь показаны только некоторые узлы. Загрузите приложение, чтобы просмотреть все узлы)</h4>
     
 ```
-vmess://eyJhZGQiOiAiODQuMjQ3LjE0OS43NyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiZmI2NzQyNjAtMWMyMS00Zjk5LThiZDAtM2QxZDM0MWM2NzcxIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICI0NzIxMSIsICJwcyI6ICJcdTA0MjRcdTA0MjBcdTA0MTMiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9
-trojan://trojan@45.192.222.112:8443?security=tls&sni=store.timimi.dpdns.org&type=ws&host=store.timimi.dpdns.org&path=%2F%3Fed%3D2560&fp=random#%D0%93%D0%BE%D0%BD%D0%BA%D0%BE%D0%BD%D0%B3
-trojan://vip@104.26.6.37:443?security=tls&sni=heihu880.pages.dev&type=ws&host=heihu880.pages.dev#%D0%A1%D0%A8%D0%90
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.110.1.88:2376#%D0%A1%D0%A8%D0%90
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.164:8080#%D0%9B%D0%B8%D1%82%D0%B2%D0%B0
-trojan://vip@104.26.6.112:443?security=tls&sni=heihu880.pages.dev&type=ws&host=heihu880.pages.dev&path=%2F%3Fed%3D2560#%D0%A1%D0%A8%D0%90
-trojan://t2WqbIW2JE@15.204.175.111:2083?security=tls&sni=usa-vp-111.mETIkaPPs.cOm&type=ws&host=usa-vp-111.mETIkaPPs.cOm&path=%2Flinkvws#%D0%A1%D0%A8%D0%90
-trojan://telegram-id-directvpn@13.61.166.141:22223?sni=trojan.burgerip.co.uk#%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@192.71.249.146:990#%D0%91%D0%B5%D0%BB%D1%8C%D0%B3%D0%B8%D1%8F
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@69.50.93.47:6379#%D0%A1%D0%A8%D0%90
-trojan://aTArbZ2F0E@172.66.168.218:443?security=tls&sni=uSa-vp-27.bLAzECLOUD.SITE&type=ws&host=uSa-vp-27.bLAzECLOUD.SITE&path=%2Flinkvkws#%D0%A1%D0%A8%D0%90
-ss://YWVzLTI1Ni1nY206N0JjTGRzTzFXd2VvR0QwWA==@193.243.147.128:40368#%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@160.123.255.243:443?allowInsecure=0&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=/proxyip=160.123.255.243:443#%D0%AE%D0%90%D0%A0
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.68.135.247:8881#%D0%A1%D0%A8%D0%90
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@119.59.98.58:990#%D0%A2%D0%B0%D0%B8%D0%BB%D0%B0%D0%BD%D0%B4
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@67.220.95.29:2375#%D0%A1%D0%A8%D0%90
+vmess://eyJhZGQiOiAiNTEuODEuMjAzLjU3IiwgInYiOiAiMiIsICJwcyI6ICJcdTA0MjFcdTA0MjhcdTA0MTAiLCAicG9ydCI6IDI4ODYwLCAiaWQiOiAiMTc4NDQ5N2QtMDNhMS00MGJiLWJiOGItZGU0ZmZhYzdjNTljIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
+trojan://vip@104.22.15.132:443?security=tls&sni=heihu880.pages.dev&type=ws&host=heihu880.pages.dev&path=%2F%3Fed%3D2560#%D0%A1%D0%A8%D0%90
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.121.43.71:8091#%D0%A1%D0%A8%D0%90
+ss://YWVzLTEyOC1nY206MTYyNjI5ZDctY2IxNy00M2IxLTgyYzktZjljN2FlNmNiYTcw@82.180.146.173:30607#%D0%91%D0%B5%D0%BB%D1%8C%D0%B3%D0%B8%D1%8F
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.163:443#%D0%A8%D0%B2%D0%B5%D0%B9%D1%86%D0%B0%D1%80%D0%B8%D1%8F
+trojan://vip@104.18.26.94:443?security=tls&sni=heihu880.pages.dev&type=ws&host=heihu880.pages.dev&path=%2F%3Fed%3D2560#%D0%A1%D0%A8%D0%90
+trojan://bpb-trojan@91.227.77.87:443?sni=skwygx.top&type=ws&host=skwygx.top&path=/tr&allowInsecure=0#%D0%91%D0%BE%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D1%8F
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.154.136.132:5000#%D0%A1%D0%A8%D0%90
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.121.43.97:7001#%D0%A1%D0%A8%D0%90
 ```
 <h5>Адрес постоянной подписки верхнего узла (части): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ru</h5>
  <p>QR-код для адреса подписки выше</p>
  <img src='https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ru.png' ширина=250 высота=250>
  <blockquote style='text-align: center;'>Чтобы получить больше узлов, адреса бесплатной подписки и конверсии подписки, загрузите программное обеспечение приложения общего узла, предоставленное на этом сайте <a href='https://shadowsharing.com'>ShadowShare </a> Использование узла экспорта, поддержка загрузок iOS и Android. Пользователям Android рекомендуется напрямую использовать <a href='https://github.com/Pawdroid/shadowrocket_for_android'>shadowrocket для Android</a> Android Rocket с все свободные узлы встроены. </blockquote>
  <h4>Рекомендуется отечественным пользователям iOS <a href='https://apps.apple.com/cn/app/shadowshare/id1612647259'>загрузить приложение из App Store</a> и сохранить его как можно скорее. может быть загружен когда-нибудь в будущем.</h4>
- <h4>Последняя версия высокоскоростного и высококачественного VPN <a href='https://letsgovpn.com'>LetsVPN</a> поддерживает платформы Android и Windows. Вы можете загрузить и использовать ее. . Неограниченная бесплатная пробная версия предоставляется в течение ограниченного времени. </h4>
+ <h4>Последняя версия высокоскоростного и высококачественного VPN <a href='https://pawdollvpn.com'>PawdollVPN</a> поддерживает платформы Android и iOS. Вы можете загрузить и использовать ее. . Неограниченная бесплатная пробная версия предоставляется в течение ограниченного времени. </h4>
  <div class="nv-content-wrap enter-content">
  <h2>Преобразование адресов клиентской подписки, таких как Clash и SS, в один клик:</h2>
  <p>Если клиент SS/SSR/V2ray не может напрямую использовать ссылку на узел SSR, используйте указанный ниже инструмент, чтобы преобразовать ее в адрес подписки. Затем SSR/SSD/Surge/Quantum/Surfboard/Loon и другие мобильные и компьютерные клиенты. можно использовать здесь:</p>

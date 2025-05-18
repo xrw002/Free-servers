@@ -35,25 +35,26 @@
  <h4>নোড তালিকা: (শুধুমাত্র কিছু নোড এখানে প্রদর্শিত হয়, সমস্ত নোড দেখতে অ্যাপটি ডাউনলোড করুন)</h4>
     
 ```
-trojan://tg-fq521free@45.67.215.95:443?security=tls&sni=torjan.xn--xhq44j.eu.org&type=ws&host=torjan.xn--xhq44j.eu.org&path=%2F#Russia
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVRGNqWVE2WjZBSVd4VmlacHF5T21P@46.246.98.155:44013#Sweden
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@67.220.95.102:5003#United+States
-trojan://vip@104.26.6.112:443?security=tls&sni=heihu880.pages.dev&type=ws&host=heihu880.pages.dev&path=%2F%3Fed%3D2560#United+States
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.121.43.71:7307#United+States
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@185.133.35.160:443?allowInsecure=1&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=/proxyip=185.133.35.160:443&proxyIP=null#Brazil
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTamRHQ0h3YWZqa3R0MXJ6cEd4VEtZVHZWQldiOFhhNkU1RFRyNk16YmRIUVN3dnBMaURjemozbjZNQmp5MnV5RlN6Z3FndkNXc0RRbXBNNFZRemZQenlHWUY1OHdkeUQ=@208.67.105.196:42029#The+Netherlands
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.130:443#United+States
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@160.79.105.81:443?allowInsecure=1&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=/proxyip=160.79.105.81:443&proxyIP=null#United+States
+trojan://a5fd0c47-f3f6-48c8-becb-cc766edf3e1a@104.21.60.213:443?security=tls&sni=m5rtyu.999658.xyz&type=ws&host=m5rtyu.999658.xyz&path=%2FGawgMugyRDAQXp6e0CScyGqcQZW&fp=chrome&alpn=http%2F1.1#United+States
+trojan://telegram-id-directvpn@13.36.160.33:22223?sni=trojan.burgerip.co.uk#France
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.121.43.97:7306#United+States
-trojan://vip@104.26.5.57:443?security=tls&sni=heihu880.pages.dev&type=ws&host=heihu880.pages.dev&path=%2F%3Fed%3D2560#United+States
-vmess://eyJhZGQiOiAiMTQ2LjU5LjU1LjUwIiwgInYiOiAiMiIsICJwcyI6ICJQb2xhbmQiLCAicG9ydCI6IDQ0MywgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJvLm1ldHVqaS5jb20iLCAicGF0aCI6ICIvbGlua3Z3cyIsICJ0bHMiOiAidGxzIn0=
-vmess://eyJhZGQiOiAiNjIuMTQ2LjIzMi4xNTYiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjI0ZWRhMGVhLWFjZjAtNDUzOC1hMDAxLWY3NDZhNDgwMjM3YSIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMzMyODEiLCAicHMiOiAiR2VybWFueSIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
+vmess://eyJhZGQiOiAiMTUyLjY5LjIyMC45NCIsICJhaWQiOiAwLCAiaG9zdCI6ICJhLnppcWl1MTA2MC5nZ2ZmLm5ldCIsICJpZCI6ICIyOGNhMDU2Ny03NTRlLTQ2ZmMtZTc3NC1iMTljNzg3OTc1ZjciLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2RzZnNkZiIsICJwb3J0IjogNDMwNTAsICJwcyI6ICJTaW5nYXBvcmUiLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICJhLnppcWl1MTA2MC5nZ2ZmLm5ldCIsICJhbGxvd2luc2VjdXJlIjogMX0=
+vmess://eyJ2IjogIjIiLCAicHMiOiAiQXVzdHJhbGlhIiwgImFkZCI6ICIxNTQuMjYuMTUzLjE2MSIsICJwb3J0IjogIjIxNzU5IiwgImlkIjogImU1ZjE2ZmFkLWY5YzMtNDUyYi04ZTcxLWJjOTUwNGUyOWZjOSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAibm9uZSIsICJzbmkiOiAiIiwgInRlc3RfbmFtZSI6ICI5OCJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@119.59.98.58:990#Thailand
+vmess://eyJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJhZGQiOiAiaGtuYnlpdmZmZmouc2l0ZSIsICJwb3J0IjogNDQzLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogInRscyIsICJpZCI6ICJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCAic25pIjogImhrbmJ5aXZmZmZqLnNpdGUiLCAiaG9zdCI6ICJoa25ieWl2ZmZmai5zaXRlIiwgInBhdGgiOiAiL3JicXF2d3MifQ==
+trojan://zsu4Mq3A9J@51.195.254.75:8443?sni=uk-02.allhubb.info#France
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.121.43.71:2376#United+States
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@69.50.93.47:5003#United+States
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@67.220.95.102:9101#United+States
+trojan://Bc%23%3F%3Fcut0k9l@104.17.148.22:2053?security=tls&sni=G7tAU5ZF41eqnF9FpwJ8rmQY3SFYEI4l.PRX11.wORKeRS.dEV&type=ws&host=g7tau5zf41eqnf9fpwj8rmqy3sfyei4l.prx11.workers.dev&path=%2FtrfoKzrMN87amrjlOx%3Fed%3D2560&fp=randomized&alpn=http%2F1.1#United+States
 ```
 <h5>উপরের নোডের স্থায়ী সদস্যতা ঠিকানা (অংশ): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_bn</h5>
  <p>উপরের সদস্যতা ঠিকানার জন্য QR কোড</p>
  <img src='https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_bn.png' width=250 height=250>
  <blockquote style='text-align: center;'>আরো নোড, বিনামূল্যের সাবস্ক্রিপশন ঠিকানা এবং সাবস্ক্রিপশন রূপান্তরের জন্য, অনুগ্রহ করে এই সাইটের দেওয়া শেয়ার্ড নোড অ্যাপ সফ্টওয়্যারটি ডাউনলোড করুন <a href='https://shadowsharing.com'>ShadowShare </a> নোড ব্যবহার রপ্তানি করুন, iOS এবং Android ডাউনলোড সমর্থন করুন, Android ব্যবহারকারীদের সরাসরি <a href='https://github.com/Pawdroid/shadowrocket_for_android'>অ্যান্ড্রয়েডের জন্য শ্যাডোরকেট</a> অ্যান্ড্রয়েড রকেট ব্যবহার করার পরামর্শ দেওয়া হচ্ছে সমস্ত বিনামূল্যে নোড অন্তর্নির্মিত. </blockquote>
  <h4>দেশীয় iOS ব্যবহারকারীদের <a href='https://apps.apple.com/cn/app/shadowshare/id1612647259'>অ্যাপ স্টোর ডাউনলোড করুন</a> এবং যত তাড়াতাড়ি সম্ভব এটি সংরক্ষণ করুন ভবিষ্যতে কোনো সময়ে ডাউনলোড করা হতে পারে</h4>
- <h4>হাই-স্পিড এবং উচ্চ-মানের VPN <a href='https://letsgovpn.com'>LetsVPN</a> এর সর্বশেষ রিলিজ অ্যান্ড্রয়েড এবং উইন্ডোজ প্ল্যাটফর্মগুলিকে এটি ডাউনলোড করতে এবং ব্যবহার করতে স্বাগত জানাই৷ একটি সীমিত সময়ের জন্য একটি সীমাহীন বিনামূল্যে ট্রায়াল প্রদান করা হয়. </h4>
+ <h4>হাই-স্পিড এবং উচ্চ-মানের VPN <a href='https://pawdollvpn.com'>PawdollVPN</a> এর সর্বশেষ রিলিজ অ্যান্ড্রয়েড এবং উইন্ডোজ প্ল্যাটফর্মগুলিকে এটি ডাউনলোড করতে এবং ব্যবহার করতে স্বাগত জানাই৷ একটি সীমিত সময়ের জন্য একটি সীমাহীন বিনামূল্যে ট্রায়াল প্রদান করা হয়. </h4>
  <div class="nv-content-wrap entry-content">
  <h2>ক্ল্যাশ এবং এসএসের মতো ক্লায়েন্ট সাবস্ক্রিপশন ঠিকানাগুলির এক-ক্লিক রূপান্তর:</h2>
  <p>যদি SS/SSR/V2ray ক্লায়েন্ট সরাসরি SSR নোড লিঙ্ক ব্যবহার করতে না পারে, তাহলে এটিকে একটি সাবস্ক্রিপশন ঠিকানায় রূপান্তর করতে নীচে লিঙ্ক করা টুলটি ব্যবহার করুন তারপর SSR/SSD/Surge/Quantum/Surfboard/Loon এবং অন্যান্য মোবাইল এবং কম্পিউটার ক্লায়েন্ট। এখানে ব্যবহার করা যেতে পারে:</p>
