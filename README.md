@@ -36,17 +36,19 @@
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
 ```
-trojan://1a17b19d-4896-4531-af79-6e91d8ef8228@13.215.50.90:6668?allowInsecure=0&sni=baidu.com#%E7%BE%8E%E5%9B%BD+Xerox
-trojan://0f7070cd-c91d-4532-a51f-56da4f0e94be@iiiiop0.444752.xyz:443?sni=iiiiop0.444752.xyz&type=ws&path=%2FctHoQlqeZn8pbEUSLppj7jCmY&host=iiiiop0.444752.xyz&alpn=http%2F1.1#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@62.133.63.212:57456#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
-trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.58:21829?allowInsecure=1&sni=www.baidu.com#%E6%B1%9F%E8%8B%8F%E7%9C%81+%E7%A7%BB%E5%8A%A8
-trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.29:53067?sni=www.baidu.com#%E6%B1%9F%E8%8B%8F%E7%9C%81+%E7%A7%BB%E5%8A%A8
-vmess://eyJhZGQiOiAiMTA0LjE3LjI1LjE3MyIsICJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAicG9ydCI6IDg4ODAsICJpZCI6ICJlN2UyNmY3Yi1jNGQ4LTM4NTYtOWM5YS1kYmI5OGY5N2ZkNmIiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiMTAwLTIzNS0xMzItNDcuczUuZGItbGluazAyLnRvcCIsICJwYXRoIjogIi9kYWJhaS5pbjEwNC4yNS4yMDAuNCIsICJ0bHMiOiAiIn0=
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU1NDA5XHU2Nzk3XHU3NzAxIFx1NzlmYlx1NTJhOChcdTUxNjhcdTc3MDFcdTkwMWFcdTc1MjgpIiwgImFkZCI6ICIxMTEuMjYuMTA5Ljc5IiwgInBvcnQiOiAiMzA4NDAiLCAidHlwZSI6ICJub25lIiwgImlkIjogImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvaW5kZXgiLCAiaG9zdCI6ICJhcGkxMDAtY29yZS1xdWljLWxmLmFtZW12LmNvbSIsICJ0bHMiOiAiIn0=
-trojan://4b33b482-25bc-49e4-b866-878c914d945a@104.21.7.147:443?sni=44444444.HuanGShANG.DPDNs.oRG&type=ws&path=%2FkzefUfBUzMsQY6zyyQCjn8kmnN0ehd&host=44444444.HuanGShANG.DPDNs.oRG&fp=chrome#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU1NDA5XHU2Nzk3XHU3NzAxIFx1NzlmYlx1NTJhOChcdTUxNjhcdTc3MDFcdTkwMWFcdTc1MjgpIiwgImFkZCI6ICJ2MjkuaGVkdWlhbi5saW5rIiwgInBvcnQiOiAiMzA4MjkiLCAidHlwZSI6ICJub25lIiwgImlkIjogImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsICJhaWQiOiAiMiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvb29vbyIsICJob3N0IjogIm9jYmMuY29tIiwgInRscyI6ICIifQ==
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU1NDA5XHU2Nzk3XHU3NzAxIFx1NzlmYlx1NTJhOChcdTUxNjhcdTc3MDFcdTkwMWFcdTc1MjgpIiwgImFkZCI6ICIxMTEuMjYuMTA5Ljc5IiwgInBvcnQiOiAiMzA4MjgiLCAiaWQiOiAiY2JiM2Y4NzctZDFmYi0zNDRjLTg3YTktZDE1M2JmZmQ1NDg0IiwgImFpZCI6ICIyIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJ0bHMiOiAiIiwgImZwIjogImNocm9tZSIsICJwYXRoIjogIi9vb29vIiwgImhvc3QiOiAib2NiYy5jb20ifQ==
-vmess://eyJhZGQiOiAiczUuZGItbGluazAyLnRvcCIsICJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAicG9ydCI6IDg4ODAsICJpZCI6ICJlN2UyNmY3Yi1jNGQ4LTM4NTYtOWM5YS1kYmI5OGY5N2ZkNmIiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiMTAwLTIzNS0xMzItNDcuczUuZGItbGluazAyLnRvcCIsICJwYXRoIjogIi9kYWJhaS5pbjEwNC4yNS4yMDAuNCIsICJ0bHMiOiAiIn0=
+trojan://xxoo@138.197.5.103:443?allowInsecure=0#%E7%BE%8E%E5%9B%BD+%E7%BA%BD%E7%BA%A6%E5%B8%82DigitalOcean%E4%BA%91%E5%85%AC%E5%8F%B8
+ss://YWVzLTI1Ni1nY206OVJGSzRETVFaUUVJSTlMSg==@8tv68qhq.slashdevslashnetslashtun.net:18009#%E7%94%98%E8%82%83%E7%9C%81%E5%85%B0%E5%B7%9E%E5%B8%82+%E7%A7%BB%E5%8A%A8
+trojan://Aimer@199.34.228.50:2053?allowInsecure=0&sni=epml.ambercc.filegear-sg.me&type=ws&host=epml.ambercc.filegear-sg.me&path=/#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
+trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.61:7041?sni=www.baidu.com&allowInsecure=1&fp=chrome#%E6%B1%9F%E8%8B%8F%E7%9C%81+%E7%A7%BB%E5%8A%A8
+trojan://xxoo@us.blazeppn.info:443?sni=us.blazeppn.info#%E7%BE%8E%E5%9B%BD+%E7%BA%BD%E7%BA%A6%E5%B8%82DigitalOcean%E4%BA%91%E5%85%AC%E5%8F%B8
+ss://YWVzLTI1Ni1nY206NEozUjBUV0NLVE03MkU2OQ==@8tv68qhq.slashdevslashnetslashtun.net:15010#%E7%94%98%E8%82%83%E7%9C%81%E5%85%B0%E5%B7%9E%E5%B8%82+%E7%A7%BB%E5%8A%A8
+trojan://Aimer@46.254.93.243:8443?allowInsecure=0&sni=epmk.ambercc.filegear-sg.me&type=ws&host=epmk.ambercc.filegear-sg.me&path=/#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
+trojan://a4291a2a-d62c-4eb9-ac7a-ac7355d1eda2@104.21.88.37:443?sni=XXcdVFghYUIOp.999165.xyZ&type=ws&path=%2FmFvK3LJyIAe8ydvnmRKWDa8&host=XXcdVFghYUIOp.999165.xyZ&fp=chrome#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.61:45203?allowInsecure=1&sni=www.baidu.com#%E6%B1%9F%E8%8B%8F%E7%9C%81+%E7%A7%BB%E5%8A%A8
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogIjE3Mi42Ny4xMzEuMjciLCAicG9ydCI6ICIyMDUzIiwgImlkIjogIjM1MGUyYjAxLWQ0MTAtNDRhNi05MGJhLTY0ODNmMTA2Mjk3MiIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAidGxzIjogInRscyIsICJzbmkiOiAicmFrMmQ0Ljg5MDYwMDA0Lnh5eiIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICJyYWsyZDQuODkwNjAwMDQueHl6In0=
+trojan://512d9674-db12-44ca-a1b5-654244549b65@cccvffgty.444752.xyz:443?sni=cccvffgty.444752.xyz&type=ws&path=%2FHOi2k5ElZdeML7Ua7dX3JIrYk7zm&host=cccvffgty.444752.xyz#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.209.147.198:990#%E5%8D%B0%E5%BA%A6+%E5%8D%A1%E7%BA%B3%E5%A1%94%E5%85%8B%E9%82%A6%E7%8F%AD%E5%8A%A0%E7%BD%97%E5%B0%94DigitalOcean%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
+vmess://eyJhZGQiOiAiMTk4LjIuMjE4LjIxNiIsICJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkXHU1MmEwXHU1MjI5XHU3OThmXHU1YzNjXHU0ZTlhXHU1ZGRlXHU2ZDFiXHU2NzQ5XHU3N2Y2IFBldGFFeHByZXNzIiwgInBvcnQiOiA0NDg4MywgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsICJhaWQiOiAiNjQiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
 ```
 
 <h5>上方节点（部分）永久订阅地址：https://proxy.v2gh.com/https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub</h5>
