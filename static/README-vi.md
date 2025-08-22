@@ -35,11 +35,10 @@
  <h4>Danh sách nút: (Chỉ hiển thị một số nút ở đây, vui lòng tải xuống ứng dụng để xem tất cả các nút)</h4>
     
 ```
-vmess://eyJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJhZGQiOiAic3Nzc3Nzc3Nzc3NzZmZmZmZmZmdoLjIwMzIucHAudWEiLCAicG9ydCI6ICI0NDMiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjQxNzRiOTVkLTExNWUtNGQzOS1hZGQ2LTFmOGRiOTViYjg2MCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvNldlM1U5RGYxV0d4Z0Zub0ZQdzEiLCAiaG9zdCI6ICJzc3Nzc3Nzc3Nzc3NmZmZmZmZmZ2guMjAzMi5wcC51YSIsICJ0bHMiOiAidGxzIn0=
-vmess://eyJhZGQiOiAiMTUuMjA0LjExLjE5MCIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogMTUzNjEsICJpZCI6ICI1ZDdiZjllMy00MTVjLTQwZjMtYzY2ZC1hNTRlYTBmZDg2MGUiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
-vmess://eyJhZGQiOiAiMTA0LjE4LjE0OS43NiIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogNDQzLCAiaWQiOiAiZGU5NGNjMGEtMDU5Mi00OTY5LWIxZmMtOTdlYThmMGVhMGIzIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogInVzLmtrcC5tZS5ldS5vcmciLCAicGF0aCI6ICIvYWEiLCAidGxzIjogInRscyJ9
-trojan://tg-fq521free@216.24.57.30:443?allowInsecure=0&sni=torjan.xn--xhq44j.eu.org&type=ws&host=torjan.xn--xhq44j.eu.org&path=/#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvMzh5dXZ6U2UzbTVhRE5wSHRVUEgxekd3YkdFWFhNRHNHd1ZhdWIyU1lFbUhVYTJXR1pVamllelgzVnZ2YTlDQ3pwanhZdHVKTGdLc1Nuc3lLQmY5Y2lQVmJhM3k0bzM=@beta.mattenadene.org:54075#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@195.181.160.6:990#Czechia
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443#United+States
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.129:443#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@38.165.233.18:990#Paraguay
 ```
 <h5>Địa chỉ đăng ký vĩnh viễn của nút trên (một phần): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_vi</h5>
  <p>Mã QR cho địa chỉ đăng ký ở trên</p>

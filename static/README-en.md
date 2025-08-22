@@ -35,11 +35,10 @@
 <h4>Node list: (Only some nodes are shown here, please download the app to view all nodes)</h4>
     
 ```
-vmess://eyJhZGQiOiAibHQuZnhsY24uY29tIiwgInYiOiAiMiIsICJwcyI6ICJTaW5nYXBvcmUiLCAicG9ydCI6IDQ1Mjg3LCAiaWQiOiAiNDY5ZTBiMzEtMzBjMy00ZGFiLTgwMGQtNzExMjMyNjM0Y2UxIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJsdC5meGxjbi5jb20iLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.162:443#Switzerland
-vmess://eyJhZGQiOiAiNjIuNjAuMTUyLjE3MCIsICJ2IjogIjIiLCAicHMiOiAiSXJhbiIsICJwb3J0IjogMjAwODYsICJpZCI6ICJkYmQ5YmVlYy00NTE5LTRhN2MtYjU5Yi0xZWE5MjUyZTNmNGUiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIn0=
-trojan://dda4f3bf-85fb-41bd-9d8e-77a8a02dbd59@194.104.147.74:1066#Hong+Kong
-trojan://tg-fq521free@216.24.57.30:443?allowInsecure=0&sni=torjan.xn--xhq44j.eu.org&type=ws&host=torjan.xn--xhq44j.eu.org&path=/#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.138:8080#The+Netherlands
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.194:443#United+Kingdom
+vmess://eyJhZGQiOiAiY2xvdWRnZXRzZXJ2aWNlLm1jbG91ZHNlcnZpY2Uuc2l0ZSIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogNDQzLCAiaWQiOiAiMzdmNDY0Y2ItYjgyNi00Mjc4LTliZjgtMTFiZGYxZWM4OTJiIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIkZyYS1WcC0xMjMuQkxhWkVDTE9VRC5TaXRlIiwgInBhdGgiOiAiL2xpbnZrd3MiLCAidGxzIjogInRscyJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.150:8080#United+States
 ```
 <h5>Permanent subscription address of the node above (part): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_en</h5>
 <p>QR code of the subscription address above</p>

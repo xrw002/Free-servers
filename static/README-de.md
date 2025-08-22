@@ -35,11 +35,10 @@
  <h4>Knotenliste: (Hier werden nur einige Knoten angezeigt. Bitte laden Sie die App herunter, um alle Knoten anzuzeigen.)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@81.19.137.222:57456#Frankreich
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.168:443#USA
-vmess://eyJhZGQiOiAiMTQ2LjU5LjU1LjUwIiwgInYiOiAiMiIsICJwcyI6ICJQb2xlbiIsICJwb3J0IjogNDQzLCAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIm8ubWV0dWppLmNvbSIsICJwYXRoIjogIi9saW5rdndzIiwgInRscyI6ICJ0bHMifQ==
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.197:443#UK
-vmess://eyJhZGQiOiAiMjE2LjIyNy4xNjguMTU3IiwgInYiOiAiMiIsICJwcyI6ICJVU0EiLCAicG9ydCI6IDQ1MjQyLCAiaWQiOiAiNDY5ZTBiMzEtMzBjMy00ZGFiLTgwMGQtNzExMjMyNjM0Y2UxIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJmZy5meGxjbi5jb20iLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.78:443#UK
+vmess://eyJhZGQiOiAiNTcuMTI5LjI0LjEyNCIsICJ2IjogIjIiLCAicHMiOiAiRGV1dHNjaGxhbmQiLCAicG9ydCI6IDQ0MywgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJ3cm1lbG13eGxmLmdrdGV2bHJxem53cXFvenkuZmFicGZzNjZnaXptbm9qaGN2cXh3bC5reXRyY2Z6cWxhODdndmd2czZjN2tqbnJ1YnVoLmNjIiwgInBhdGgiOiAiL2xpbmt2d3MiLCAidGxzIjogInRscyJ9
+ss://YWVzLTEyOC1nY206NmIxZTU0NzUtNzY2MS00OTIxLWFhMjYtZDExNzU4YjJmM2Yx@hk1-20250813213806be3c17japantm01.tmdns-sing.top:13872#Malaysia
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.199:8080#Litauen
 ```
 <h5>Die permanente Abonnementadresse des oberen Knotens (Teil): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_de</h5>
  <p>QR-Code für die Abonnementadresse oben</p>

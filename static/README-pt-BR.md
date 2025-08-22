@@ -35,11 +35,10 @@
  <h4>Lista de nós: (Apenas alguns nós são exibidos aqui, baixe o aplicativo para visualizar todos os nós)</h4>
     
 ```
-vmess://eyJhZGQiOiAiMjE2LjIyNy4xNjguMTU3IiwgInYiOiAiMiIsICJwcyI6ICJFVUEiLCAicG9ydCI6IDQ1Mjk0LCAiaWQiOiAiNDY5ZTBiMzEtMzBjMy00ZGFiLTgwMGQtNzExMjMyNjM0Y2UxIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJsdC5meGxjbi5jb20iLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
-vmess://eyJhZGQiOiAiMjA2LjIwNi44MC4yMjciLCAidiI6ICIyIiwgInBzIjogIkVVQSIsICJwb3J0IjogMjAwODYsICJpZCI6ICIwYWJiN2I5ZS04MWJhLTQzMzYtOGNhNy0wNTY4NjYwMzJmZjMiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIn0=
-trojan://slch2024@104.18.3.108:8443?allowInsecure=1&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/#EUA
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.132:443#EUA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5SmVZeThTa1ZpWHVTSFZzOUdGZVNl@77.110.110.117:443#L%C3%ADbano
+ss://YWVzLTEyOC1nY206NmIxZTU0NzUtNzY2MS00OTIxLWFhMjYtZDExNzU4YjJmM2Yx@usa20250815010624020199.tmdns-sing.top:13874#EUA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.188:8080#Litu%C3%A2nia
+vmess://eyJhZGQiOiAiODIuMTk3LjY5LjEzMSIsICJ2IjogIjIiLCAicHMiOiAiQWxlbWFuaGEiLCAicG9ydCI6IDM5Njc0LCAiaWQiOiAiNWE4OTM4NmEtODI3Yi00ZjU0LTg3NzgtMmYxYjUxMjJjNmVmIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@104.167.197.25:57456#EUA
 ```
 <h5>O endereço de assinatura permanente do nó superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_pt-BR</h5>
  <p>Código QR do endereço de assinatura acima</p>
