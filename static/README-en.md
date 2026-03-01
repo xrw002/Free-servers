@@ -35,10 +35,10 @@
 <h4>Node list: (Only some nodes are shown here, please download the app to view all nodes)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.218:8080#United+Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@38.60.250.107:990#Germany
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.92:8080#Lithuania
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTRGFGSVNyM0dmbTZZa0JTU3JGSUV3d1dqRUVVN1hibw==@95.164.10.228:443#Denmark
+trojan://4843e94d205f3893f588255a591abe94@153.121.38.213:3901?sni=www.nintendogames.net#Japan
+trojan://4843e94d205f3893f588255a591abe94@160.16.70.180:3423?sni=www.nintendogames.net#Japan
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcEtBQmNPcE5OQTBsNUcyQVZPbXc4@213.109.147.242:62685#United+Kingdom
+vmess://eyJhZGQiOiAiYzcuNjIwNzIwLnh5eiIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogODQ0MywgImlkIjogIjUxNmQ4YTdhLTNmMGItNDFkMy1iYWQwLTI0NjExNjM4MTUxNiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJjNy42MjA3MjAueHl6IiwgInBhdGgiOiAiLyIsICJ0bHMiOiAidGxzIn0=
 ```
 <h5>Permanent subscription address of the node above (part): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_en</h5>
 <p>QR code of the subscription address above</p>
