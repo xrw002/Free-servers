@@ -35,11 +35,11 @@
  <h4>নোড তালিকা: (শুধুমাত্র কিছু নোড এখানে প্রদর্শিত হয়, সমস্ত নোড দেখতে অ্যাপটি ডাউনলোড করুন)</h4>
     
 ```
-trojan://uThbm8eGmXZ7GKqnWy@nl-4.tr202507.com:443?sni=nl-4.tr202507.com&allowInsecure=1&type=tcp&fp=chrome#The+Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.208:8080#United+Kingdom
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443#United+Kingdom
-trojan://86e150eb21c6faee48e81d496d7f61c2@160.16.72.33:3057?security=tls&sni=www.nintendogames.net#Japan
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGamdHTk5IUWlFTHp4WG1hSFJ4eHRRYnhERHZHWEZ4WWRUYlllOTFKS1pzanZLTEhvWTlybjlydVlFNDUzNzdXanRVM200a21YUVpEWGlIQkpzZ1ZmaG1wYXdFb0d2cTk=@mx2.drawnrisha.one:55988#United+Kingdom
+vmess://eyJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJhZGQiOiAiNjYuMTYzLjExNy41OCIsICJwb3J0IjogIjIyMzI0IiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICIiLCAidGxzIjogIiIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZX0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@45.154.204.7:990#Canada
+vmess://eyJhZGQiOiAiOC4yMTAuMTY1LjEwOSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJuMTc2MTIxNDkxOC43NHF4di50b3AiLCAiaWQiOiAiYjE0MTgwM2EtMjA5Yy00N2JkLWJlNmUtMTRkNmJjMWU5NmJlIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICJIb25nIEtvbmciLCAic2N5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAibjE3NjEyMTQ5MTguNzRxeHYudG9wIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICItLS0iLCAidiI6ICIyIn0=
+vmess://eyJhZGQiOiAibjE3NjEyMTQ5MDgud3BnMjcueHl6IiwgInYiOiAiMiIsICJwcyI6ICJIb25nIEtvbmciLCAicG9ydCI6IDQ0MywgImlkIjogIjM1MTRhOTNmLWJiMjYtNDQ0Mi04Zjk5LTk3MWIyZmYzMzg4YSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvIiwgInRscyI6ICJ0bHMifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMWVcydzlmd2Ryd2oycUM5TnlUQnVCTktRSlV2a0tuQ3A5VXhWbkZXNkxxZVNwaUNjbnpWMWNNb2hCVW5DQ1dCa2prcDgzclY5d1dlWVFRcVVad011WXUxWXlDdDE3dFc=@107.181.147.235:40521#United+Kingdom
 ```
 <h5>উপরের নোডের স্থায়ী সদস্যতা ঠিকানা (অংশ): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_bn</h5>
  <p>উপরের সদস্যতা ঠিকানার জন্য QR কোড</p>

@@ -35,11 +35,11 @@
  <h4>Danh sách nút: (Chỉ hiển thị một số nút ở đây, vui lòng tải xuống ứng dụng để xem tất cả các nút)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYjQyNThkYzFiNTM2MTNj@163.171.207.11:29464#United+Arab+Emirates
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnQzdhUXY5RHNFTmFWZkt6VFBES1lW@212.192.14.226:41968#Russia
-trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?allowInsecure=0&sni=celestialcorset.crystalhamster.click#Iceland
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOTRmMGI2OTE2ZjY3YmRj@38.54.14.156:11201#Vietnam
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.184:8080#United+Kingdom
+trojan://13c169be-8592-4eaa-94cb-69c859e7d987@ubu.okaoclax.me:443?path=/trojan-ws&security=tls&host=ubu.okaoclax.me&type=ws&sni=ubu.okaoclax.me#Singapore
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBVkxiRVVFdEJENTlGc1JxY055RWli@203.202.232.78:60299#India
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@38.165.231.25:990#Ecuador
+vmess://eyJhZGQiOiAibjE3NTM1OTg0NDYud3BnMjcueHl6IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIm4xNzUzNTk4NDQ2LndwZzI3Lnh5eiIsICJpZCI6ICJhNTA0N2Q5NS0yNGI4LTQ1MWEtOTNlMy1mMmEzODdiOTNkNWEiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAiNDQzIiwgInBzIjogIkphcGFuIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogInRscyIsICJ0eXBlIjogIi0tLSIsICJ2IjogIjIiLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWV9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.179:8080#United+Kingdom
 ```
 <h5>Địa chỉ đăng ký vĩnh viễn của nút trên (một phần): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_vi</h5>
  <p>Mã QR cho địa chỉ đăng ký ở trên</p>
