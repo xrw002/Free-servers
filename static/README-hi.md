@@ -35,13 +35,11 @@
  <h4>नोड सूची: (यहां केवल कुछ नोड्स प्रदर्शित हैं, कृपया सभी नोड्स देखने के लिए ऐप डाउनलोड करें)</h4>
     
 ```
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.180.152.210:8881#The+Netherlands
-vmess://eyJ2IjogIjIiLCAicHMiOiAiSG9uZyBLb25nIiwgImFkZCI6ICJiNDdkN2M0Ny10NnI1czAtdGs1bHMxLXo3YTEuaGt0LmdvdG9jaGluYXRvd24ubmV0IiwgInBvcnQiOiAiODAiLCAiaWQiOiAiM2JkMjQ3YTgtOTkzZS0xMWVjLWE4YmYtZjIzYzkxY2ZiYmM5IiwgImFpZCI6IDIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJhdXRvIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
-vmess://eyJhZGQiOiAibjE3NjEyOTY4ODAubGllNWQuY3lvdSIsICJhaWQiOiAwLCAiaG9zdCI6ICJuMTc2MTI5Njg4MC5saWU1ZC5jeW91IiwgImlkIjogIjFlZmZhYzRhLWNkYjgtNDcxNy1hMTBjLWRhOTcyNjNjODAyYyIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiA0NDMsICJwcyI6ICJIb25nIEtvbmciLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsICJzbmkiOiAibjE3NjEyOTY4ODAubGllNWQuY3lvdSJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNTg2YWU4ZDc3M2YyNTBm@217.77.3.68:28954#United+Kingdom
-trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@38.180.215.249:2083?allowInsecure=1&host=xo.e0f.cx&path=/trojan-ws&sni=xo.e0f.cx&type=ws#The+Netherlands
-vmess://eyJhZGQiOiAiOWY0MmFmOGEtdDcwZjQwLXQ5OWI1bi0xaGh5eS5oa3QuZ290b2NoaW5hdG93bi5uZXQiLCAidiI6ICIyIiwgInBzIjogIkhvbmcgS29uZyIsICJwb3J0IjogODAsICJpZCI6ICJjNTk0YzdlYy04YjEwLTExZWYtYTJiOC1mMjNjOTE2NGNhNWQiLCAiYWlkIjogIjIiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiYnJvYWRjYXN0bHYuY2hhdC5iaWxpYmlsaS5jb20iLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
-trojan://M08tvzYWtUEJNtbpHp@194.124.216.185:443?allowInsecure=1#The+Netherlands
+trojan://humanity@www.gossipglove.com:443?security=tls&sni=www.gossipglove.com&fp=chrome&type=ws&path=%2Fassignment#United+States
+trojan://9f7d5cb76d1645101994d9b25891e3b7@160.16.124.17:4674?security=tls&sni=www.nintendogames.net#Japan
+vmess://eyJhZGQiOiAiNDcuOTAuMjQ0LjE1MyIsICJhaWQiOiAiMCIsICJob3N0IjogIiIsICJpZCI6ICI2NWUyYTk4NS1hZDIwLTQ0ODYtYTdlYy1iNjdiMjBlZTU2YWYiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3dzIiwgInBvcnQiOiAiODQ0MyIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.151:8080#The+Netherlands
+trojan://n5ix4FcMQYENMQPL+YKbvyJ8nZ84+bNTsj@82.26.155.199:10369?allowInsecure=1&sni=fra4.chasem2026sud.com#United+Kingdom
 ```
 <h5>ऊपरी नोड (भाग) का स्थायी सदस्यता पता: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_hi</h5>
  <p>उपरोक्त सदस्यता पते के लिए QR कोड</p>
